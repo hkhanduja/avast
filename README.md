@@ -1,4 +1,4 @@
-﻿#There are 3 projects in total 
+#There are 3 projects in total 
 ## Avast.PrimeNumbers.Web
 This is the start up web project where you can enter the value of N which is input from user for count of grid
 As per requirement it is incremented by 1 to display N+1 * N+1 grid(multiplication table)
