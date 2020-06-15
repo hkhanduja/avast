@@ -1,0 +1,56 @@
+﻿@model List<int>
+@{
+    ViewData["Title"] = "Grid of Prime Numbers";
+}
+
+<h1>Here is grid of Prime Numbers</h1>
+@{
+  
+    int count = Model.Count;
+    List<int> nPrimeNumbers = Model;
+}
+
+<table>
+
+    @*row with list of prime number as cells*@
+    <tr>
+        <td>
+        </td>
+        @for (int col = 0; col < count; col++)
+        {
+            <td>
+                @nPrimeNumbers[col]
+            </td>
+        }
+    </tr>
+
+
+    @for (int row = 0; row < count; row++)
+    {
+
+        <tr>
+            @for (int col = 0; col < count; col++)
+            {
+                //first column as cells of prime numbers
+                if (col == 0)
+                {
+                    <td>
+                        @nPrimeNumbers[row]
+                    </td>
+                    <td>
+                        @(nPrimeNumbers[row]* nPrimeNumbers[col])
+                    </td>
+                }
+                else
+                {
+                    <td>
+                        @(nPrimeNumbers[row]* nPrimeNumbers[col])
+                    </td>
+                }
+
+            }
+
+        </tr>
+
+    }
+    </table>

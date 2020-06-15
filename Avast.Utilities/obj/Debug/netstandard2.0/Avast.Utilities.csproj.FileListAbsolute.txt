@@ -1,0 +1,9 @@
+C:\learnings\assignments\Avast\Avast.Utilities\bin\Debug\netstandard2.0\Avast.Utilities.deps.json
+C:\learnings\assignments\Avast\Avast.Utilities\bin\Debug\netstandard2.0\Avast.Utilities.dll
+C:\learnings\assignments\Avast\Avast.Utilities\bin\Debug\netstandard2.0\Avast.Utilities.pdb
+C:\learnings\assignments\Avast\Avast.Utilities\obj\Debug\netstandard2.0\Avast.Utilities.csprojAssemblyReference.cache
+C:\learnings\assignments\Avast\Avast.Utilities\obj\Debug\netstandard2.0\Avast.Utilities.AssemblyInfoInputs.cache
+C:\learnings\assignments\Avast\Avast.Utilities\obj\Debug\netstandard2.0\Avast.Utilities.AssemblyInfo.cs
+C:\learnings\assignments\Avast\Avast.Utilities\obj\Debug\netstandard2.0\Avast.Utilities.csproj.CoreCompileInputs.cache
+C:\learnings\assignments\Avast\Avast.Utilities\obj\Debug\netstandard2.0\Avast.Utilities.dll
+C:\learnings\assignments\Avast\Avast.Utilities\obj\Debug\netstandard2.0\Avast.Utilities.pdb

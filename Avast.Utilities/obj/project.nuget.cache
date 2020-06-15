@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8HT8DH6yeldPu2uZoEWwCHg/bTwrrov/UVIy6fz2XVIMERpiJ0rZFAwqfSGtT0hRCEl9L+6VaBWumIDQC2WOBQ==",
+  "success": true,
+  "projectFilePath": "C:\\learnings\\assignments\\Avast\\Avast.Utilities\\Avast.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Heman\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Heman\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
